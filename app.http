@@ -1,0 +1,9 @@
+post http://localhost:4444/posting
+
+Content-Type: application/json
+{
+    "name":"chandu",
+    "email":"chandu@gmail.com",
+    "contactnumber":"9381738939",
+    "password":"chandu"
+}
